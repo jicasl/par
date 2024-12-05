@@ -12,3 +12,8 @@ elif tipo_interes == 'C':
     print(f"Interes compuesto: {interes_compuesto:.2f}. Monto total: {monto_total:.2f}.")
 else:
     print("Tipo de interes no valido. Por favor, Ingresa 'S' o 'C'.")
+
+
+
+
+
